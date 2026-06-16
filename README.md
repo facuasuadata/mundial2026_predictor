@@ -84,8 +84,7 @@ Abrir `mundial2026_predictor.ipynb` en Jupyter Lab o Jupyter Notebook y ejecutar
 
 > También podés ejecutarlo directamente en Google Colab sin instalar nada:
 >
-> [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/facuasudata/mundial2026_predictor/blob/main/mundial2026_predictor.ipynb)
-
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/facuasudata/mundial2026_predictor/blob/main/notebooks/mundial2026_predictor.ipynb)
 ---
 
 ## 🌍 Cobertura
