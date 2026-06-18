@@ -94,7 +94,7 @@ https://colab.research.google.com/github/facuasuadata/mundial2026_predictor/blob
 
 | Confederación | Selecciones |
 |---|---|
-| UEFA | España, Francia, Inglaterra, Portugal, Países Bajos, Bélgica, Alemania, Suiza, Austria, Noruega, Turquía, Dinamarca, Suecia, República Checa, Escocia, Bosnia y Herzegovina |
+| UEFA | España, Francia, Inglaterra, Portugal, Países Bajos, Bélgica, Alemania, Suiza, Austria, Noruega, Turquía, Croacia, Suecia, República Checa, Escocia, Bosnia y Herzegovina |
 | CONMEBOL | Argentina, Brasil, Colombia, Uruguay, Ecuador, Paraguay |
 | CONCACAF | Estados Unidos, México, Canadá, Panamá, Haití, Curazao |
 | CAF | Marruecos, Senegal, Túnez, Argelia, Egipto, Costa de Marfil, RD Congo, Ghana, Cabo Verde, Sudáfrica |
